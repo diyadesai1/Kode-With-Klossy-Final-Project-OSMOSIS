@@ -1,4 +1,4 @@
-# Kode-With-Klossy-Final-Project-OSMOSIS
+# OSMOSIS
 Website for people to be educated on climate issues and shop sustainably in an open and honest space while providing a learning experience 
 
 Problem: Animals and environments of the world are suffering due to climate change, yet many young and old individuals are unaware of the 
